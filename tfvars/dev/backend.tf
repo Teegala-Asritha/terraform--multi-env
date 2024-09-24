@@ -1,4 +1,4 @@
-bucket = "81s-remote-state-dev"
+bucket = "terraforms-remote-state-dev"
 key    = "tfvars-demo-dev"
 region = "us-east-1"
-dynamodb_table = "81s-locking-dev"
+dynamodb_table = "terraform-locking-dev"
